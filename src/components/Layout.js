@@ -23,13 +23,13 @@ const TemplateWrapper = ({ children }) => {
         <link
           rel="icon"
           type="image/png"
-          href={`${withPrefix("/")}img/favicon-32x32.png`}
+          href={`${withPrefix("/")}img/favicon-32x32.svg`}
           sizes="32x32"
         />
         <link
           rel="icon"
           type="image/png"
-          href={`${withPrefix("/")}img/favicon-16x16.png`}
+          href={`${withPrefix("/")}img/favicon-16x16.svg`}
           sizes="16x16"
         />
 
@@ -47,6 +47,11 @@ const TemplateWrapper = ({ children }) => {
           property="og:image"
           content={`${withPrefix("/")}img/og-image.jpg`}
         />
+        <script src="https://getinsights.io/js/insights.js"></script>
+        <script>
+        insights.init('tmZ3uTg_l4CDWkWr');
+        insights.trackPages();
+        </script>
       </Helmet>
       <Navbar />
       <div>{children}</div>
