@@ -48,7 +48,7 @@ export default class Contact extends React.Component {
             <div className="content">
               <h1>File Upload</h1>
               <form
-                name="file-upload"
+                name="no-use-2"
                 method="post"
                 action="/contact/thanks/"
                 data-netlify="true"
