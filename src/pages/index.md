@@ -1,38 +1,34 @@
 ---
 templateKey: index-page
-title: Ceske lecebne konopi
+title: České léčebné konopí
 image: /img/home-jumbotron.jpg
-heading: Ceske lecive konopi
-subheading: Nejlepsi lecive konopi na ceskem trhu
+heading: Tým MechaGrow
+subheading: Dostupné pro všechny, co ho potřebují
 mainpitch:
-  title: Proc MechaGrow?
+  title: Léčebné konopí pro všechny, kteří ho potřebují
   description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
-description: Kaldi is the ultimate spot for coffee lovers who want to learn
-  about their java’s origin and support the farmers that grew it. We take coffee
-  production, roasting and brewing seriously and we’re glad to pass that
-  knowledge to anyone.
+    MechaGrow je český producent léčebného konopí. Tento přípravek, který se
+    momentálně do České republiky dováží ze zahraničí, v mnoha případech pomáhá
+    tam, kde běžné léky nepomáhají. Přes moderní pěstitelské technologie a
+    splnění nejpřísnějších evropských pěstitelských pravidel, chce MechaGrow
+    zaručit, aby všechny typy léčebného konopí byly dostupné všem, co je
+    potřebují.
+description: MechaGrow je tým dvou bratrů, kteří během vyrůstání viděli trpět
+  blízkého chronickou bolestí kvůli artritidě. Přes MechaGrow chtějí zajistit,
+  aby nikdo tak nemusel trpět a každý pacient, který to potřebuje, měl přístup k
+  léčebnému konopí.
 intro:
   blurbs:
     - image: /img/coffee.png
-      text: >
-        We sell green and roasted coffee beans that are sourced directly from
-        independent farmers and farm cooperatives. We’re proud to offer a
-        variety of coffee beans grown with great care for the environment and
-        local communities. Check our post or contact us directly for current
-        availability.
+      text: Vojtěch - Magistr chemie z University of Manchester má zkušenosti s
+        nakládáním s nebezpečnými látkami ze svého studia. Nyní pracuje v
+        oblasti malých technologických společností, kde optimalizuje jejich chod
+        pomocí dat.
     - image: /img/coffee-gear.png
-      text: >
-        We offer a small, but carefully curated selection of brewing gear and
-        tools for every taste and experience level. No matter if you roast your
-        own beans or just bought your first french press, you’ll find a gadget
-        to fall in love with in our shop.
-  heading: Ceske lecive konopi
-  description: Kaldi is the ultimate spot for coffee lovers who want to learn
-    about their java’s origin and support the farmers that grew it. We take
-    coffee production, roasting and brewing seriously and we’re glad to pass
-    that knowledge to anyone.
+      text: Tomáš - Začal studovat produktový design a inženýrství v Anglii, ale
+        uvědomil si svou vášeň a rozhodl se tedy založit MechaGrow a mezitím
+        praktikovat ekonomii a finance jak na Univerzitě Karlově, tak pomáháním
+        v rodinné auditorské kanceláři v Praze.
+  heading: Tým MechaGrow
+  description: MechaGrow
 ---
