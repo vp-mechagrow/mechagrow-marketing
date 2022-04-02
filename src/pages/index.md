@@ -19,12 +19,12 @@ description: MechaGrow je tým dvou bratrů, kteří během vyrůstání viděli
   léčebnému konopí.
 intro:
   blurbs:
-    - image: /img/coffee.png
+    - image: /img/vojta.jpeg
       text: Vojtěch - Magistr chemie z University of Manchester má zkušenosti s
         nakládáním s nebezpečnými látkami ze svého studia. Nyní pracuje v
         oblasti malých technologických společností, kde optimalizuje jejich chod
         pomocí dat.
-    - image: /img/coffee-gear.png
+    - image: /img/tomas.jpeg
       text: Tomáš - Začal studovat produktový design a inženýrství v Anglii, ale
         uvědomil si svou vášeň a rozhodl se tedy založit MechaGrow a mezitím
         praktikovat ekonomii a finance jak na Univerzitě Karlově, tak pomáháním
