@@ -19,6 +19,7 @@ description: MechaGrow je tým dvou bratrů, kteří během vyrůstání viděli
   léčebnému konopí.
 intro:
   blurbs: 98E0EE8C-931C-460A-B453-D6C20BAA5903.jpeg
+  B96F34AA-EA0E-4321-B818-2BB9D04C6E51.jpeg
   heading: Tým MechaGrow
   description: MechaGrow
 ---
