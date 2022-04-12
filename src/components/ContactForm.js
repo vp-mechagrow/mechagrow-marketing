@@ -93,7 +93,7 @@ class ContactForm extends React.Component {
                         onChange={this.handleChange}
                         id={"message"}
                         required={true}>
-                      <option hidden disabled selected>Vyberte možnost</option>
+                      <option hidden disabled defaultValue>Vyberte možnost</option>
                       <option>Jsem Lékárník nebo Dodavatel</option>
                       <option>Mám zájem o spolupráci</option>
                       <option>Mám zájem o váš produkt</option>
