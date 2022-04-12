@@ -19,12 +19,12 @@ description: "MechaGrow založili dva bratři, které ovlivnila rodinná zkušen
   vždy na prvním místě. "
 intro:
   blurbs:
-    - image: /img/B96F34AA-EA0E-4321-B818-2BB9D04C6E51.jpeg
+    - image: /img/vojta.jpeg
       text: Vojtěch - Magistr chemie z University of Manchester má zkušenosti s
         nakládáním s nebezpečnými látkami ze svého studia. Nyní pracuje v
         oblasti malých technologických společností, kde optimalizuje jejich chod
         pomocí dat.
-    - image: /img/98E0EE8C-931C-460A-B453-D6C20BAA5903.jpeg
+    - image: /img/tomas.jpeg
       text: Tomáš - Začal studovat produktový design a inženýrství v Anglii, ale
         uvědomil si svou vášeň a rozhodl se tedy založit MechaGrow a mezitím
         praktikovat ekonomii a finance jak na Univerzitě Karlově, tak pomáháním
