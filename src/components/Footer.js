@@ -14,7 +14,7 @@ const Footer = class extends React.Component {
             style={{ width: "14em", height: "4em" }}
           />
           <div className="social">
-          <a title="linkedin" href="www.mechagrow.cz">
+          <a title="linkedin" href="https://www.linkedin.com/company/mechagrow/">
             <img
               src={linkedin}
               alt="MechaGrow Linkedin"
@@ -25,7 +25,7 @@ const Footer = class extends React.Component {
         </div>
         <div className="content has-text-centered">
           <p>
-            MechGrow s.r.o. 2022  
+            MechaGrow s.r.o. 2022  
           </p> 
         </div>
       </footer>
