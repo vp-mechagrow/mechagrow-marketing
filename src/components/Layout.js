@@ -47,11 +47,6 @@ const TemplateWrapper = ({ children }) => {
           property="og:image"
           content={`${withPrefix("/")}img/og-image.jpg`}
         />
-        <script src="https://getinsights.io/js/insights.js"></script>
-        <script>
-        insights.init('tmZ3uTg_l4CDWkWr');
-        insights.trackPages();
-        </script>
       </Helmet>
       <Navbar />
       <div>{children}</div>
